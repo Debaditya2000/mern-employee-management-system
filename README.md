@@ -8,9 +8,9 @@
 - Node.js
 
 ## Project Structure
-MERN_Employee_Project/
-- backend/
-- frontend/
+MERN_Employee_Project
+- backend
+- frontend
 
 ## How to Run
 
